@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aORK1FDbbepbc3uxKQEk2/CNGOcMVt2UQuNSeARGL3Ht5Y3GmepHvOPUtuMXjQ9+654Dajr6mNZV5sy0OilNig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tallm\\OneDrive\\Documents\\GitHub\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tallm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tallm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tallm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tallm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tallm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tallm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
