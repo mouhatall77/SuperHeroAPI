@@ -24,6 +24,11 @@ namespace SuperHeroAPI.Controllers
                     Place = "Long Island"
                 }
             };
+        private readonly DataContext context;
+
+        public SuperHeroController(DataContext context)
+        {
+        }
 
         [HttpGet]
         public async Task<ActionResult<List<SuperHero>>> Get()
@@ -70,7 +75,7 @@ namespace SuperHeroAPI.Controllers
                 return BadRequest("Hero Not Found.");
             
             heroes.Remove(hero);
-            return Ok(hero);
+            return Ok(heroes);
         }
 
     }
